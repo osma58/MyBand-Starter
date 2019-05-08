@@ -4,8 +4,8 @@ www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunn
 De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * eerste u.s.p. (Mijn site gaat over mijn unieke smaak van muziek, mijn music utopia)
+ * tweede u.s.p. (mijn site zal opvalleen door de mooie fotos van de artiesten dier er in gaan komen en mensen zullen onthouden wat voor genre muziek het over het algemeen is. )
 
 ---
 #### Milestones 
