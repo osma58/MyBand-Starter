@@ -6,7 +6,7 @@ $config = [
     'DB_USER' => 'root',
     'DB_PASSWORD' => 'root',
     'ROOT' => dirname(dirname(__DIR__)),
-    'PRIVATE' => dirname(__DIR__) . '/private',
+    'PRIVATE' => dirname(__DIR__),
     'WEBROOT' => dirname(__DIR__) . '/public',
 ];
 
